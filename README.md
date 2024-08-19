@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-Designing an attendance system for 7-Eleven involves creating a reliable and efficient solution to track and manage employee attendance. This system plays a crucial role in ensuring accurate payroll processing, compliance with labor regulations, and overall workforce management.
+Designing an attendance system for 7-Eleven involves creating a reliable and efficient solution to track and manage employee attendance. 
 <br />
 
 
