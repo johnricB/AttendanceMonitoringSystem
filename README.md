@@ -1,9 +1,9 @@
-<h1>2nd_year, 1stSem Application Project QRcode Attendance Monitoring System</h1>
+<h1>Second-Year, First Semester Application Project: QR Code-Based Attendance Monitoring System</h1>
 
 
 
 <h2>Description</h2>
-Designing an attendance system for 7-Eleven involves creating a reliable and efficient solution to track and manage employee attendance. 
+Designing an attendance system for 7-Eleven involves creating a reliable and efficient solution to track and manage employee attendance records using QR Code.
 <br />
 
 
@@ -14,17 +14,17 @@ Designing an attendance system for 7-Eleven involves creating a reliable and eff
 
 <h2>Scope</h2>
 
-- <b>monitor attendance</b>
-- <b>register new employee</b>
-- <b>removing non-existing employee</b>
-- <b>admin - controlled security</b>
-- <b>qr code</b>
-- <b>print copy of records</b>
+- <b>Employee Attendance Monitoring</b>
+- <b>Employee Registration</b>
+- <b>Employee Removal</b>
+- <b>Administrator-Controlled Security</b>
+- <b>QR Code Integration</b>
+- <b>Record Printing Functionality</b>
 
 <h2>Limitation</h2>
 
-- <b>calculate payroll/wage for employee</b>
-- <b>internet connection</b> 
+- <b>Lack of Payroll/Wage Calculation Functionality</b>
+- <b>This application does not have internet capability.</b> 
 
 
 <h2>Environments Used </h2>
