@@ -1,4 +1,4 @@
-<h1>Second-Year, First Semester Application Project: QR Code-Based Attendance Monitoring System</h1>
+<h1>Second-Year, First Semester Individual Application Project: QR Code-Based Attendance Monitoring System</h1>
 
 
 
